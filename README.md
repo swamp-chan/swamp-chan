@@ -1,21 +1,37 @@
+<div align="center">
+  <h1>:3</h1>
+</div>
 
-<!---
-swamp-chan/swamp-chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# About me
+<div align="center">
+  <h2>ABOUT ME</h2>
+</div>
+
 - Name: Sambeed shrestha
 - DOB: 2009/?/?
 - Gender: sigma
 - Education level: 10th grade
 - Not too good at coding but learning :)
 
-# Language
+<div align="center">
+  <h2>Languages</h2>
+</div>
+
 - Beginner C😭
 - Intermediate Lua (roblox)
 - Intermedite Qbasic💀
+- Python basics😭
 
-# IDE's:
+<div align="center">
+  <h2>IDE's I use:</h2>
+</div>
+
 - Vim😎
 - VScode🥶
 - Notepad++🙏🏿
+
+<div align="center">
+  <h2>Learning these atm:</h2>
+</div>
+
+- Raylib🗿
+- C🤫
