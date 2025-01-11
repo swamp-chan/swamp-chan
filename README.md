@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>ABOUT ME</h2>
+  <h2>👋ABOUT ME</h2>
 </div>
 
 - Name: Sambeed shrestha
@@ -13,16 +13,20 @@
 - Not too good at coding but learning :)
 
 <div align="center">
-  <h2>Languages</h2>
+  <h2>Languages📘</h2>
 </div>
 
-- Beginner C😭
-- Intermediate Lua (roblox)
-- Intermedite Qbasic💀
-- Python basics😭
+- Proficient:
+   - None(at the moment😄);-;
+- Intermedite:
+   - Qbasic💀
+   - Lua(roblox)
+- Basics😅:
+   - C
+   - Python
 
 <div align="center">
-  <h2>IDE's I use:</h2>
+  <h2>IDE's I use⬛:</h2>
 </div>
 
 - Vim😎
@@ -30,8 +34,8 @@
 - Notepad++🙏🏿
 
 <div align="center">
-  <h2>Learning these atm:</h2>
+  <h2>Technologies I use or am learning😄:</h2>
 </div>
 
 - Raylib🗿
-- C🤫
+
