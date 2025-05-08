@@ -6,7 +6,8 @@
   <h2>👋ABOUT ME</h2>
 </div>
 
-- Name: Sambeed shrestha
+- Name:
+- Username: Lampson
 - DOB: 2009/?/?
 - Gender: sigma
 - Education level: 10th grade
