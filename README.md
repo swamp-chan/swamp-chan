@@ -25,6 +25,7 @@
 - Basics😅:
    - C
    - Python
+   - HTML
 
 <div align="center">
   <h2>IDE's I use⬛:</h2>
@@ -34,9 +35,13 @@
 - VScode🥶
 - Notepad++🙏🏿
 
-<div align="center">
-  <h2>Technologies I use or am learning😄:</h2>
-</div>
-
-- Raylib🗿
+<section align = "center">
+  <h2>Currently learning:</h2>
+  <div align = "left">
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+    </ul>
+  </div>
+</section>
 
