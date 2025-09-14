@@ -40,8 +40,7 @@
   <h2>Currently learning:</h2>
   <div align = "left">
     <ul>
-      <li>HTML</li>
-      <li>CSS</li>
+      <li>C++</li>
     </ul>
   </div>
 </section>
