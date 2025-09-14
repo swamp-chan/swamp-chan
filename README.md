@@ -24,6 +24,7 @@
    - Lua(roblox)
 - Basics😅:
    - C
+   - C++
    - Python
    - HTML
 
