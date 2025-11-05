@@ -9,9 +9,9 @@
 - Name:
 - Username: Lampson
 - DOB: 2009/?/?
-- Gender: sigma
-- Education level: 10th grade
-- Not too good at coding but learning :)
+- Gender: 
+- Education level: 11th grade
+- Not too good but learning :)
 
 <div align="center">
   <h2>Languages📘</h2>
