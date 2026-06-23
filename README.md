@@ -1,12 +1,11 @@
-<div align="center">
-  <h1>Welcome to my github :3</h1>
-</div>
+
+  <h1>-- Too Lazy To Decorate My Github --</h1>
 
 <div align="center">
-  <h2>👋ABOUT ME</h2>
+  <h2 >who am i??</h2>
 </div>
 
-- Name:
+- Name: ;P
 - Username: Lampson
 - DOB: 2009/?/?
 - Gender: 
@@ -19,22 +18,12 @@ PLEASE SOMEONE JUST SHOOT ME IN THE HEAD AND END MY SUFFERING
   <h2>Languages📘</h2>
 </div>
 
-- Proficient:
-   - None(at the moment😄);-;
-- Intermedite:
-   - Qbasic💀
-   - Lua(roblox)
-- Basics😅:
-   - C
-   - C++
-   - Python
-   - HTML
+<p>i guess i know some c, c++, html and css</p>
 
 <div align="center">
   <h2>IDE's I use⬛:</h2>
 </div>
 
 - Vim😎
-- VScode🥶
-- Notepad++🙏🏿
+- lazyvim 
 
