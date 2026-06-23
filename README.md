@@ -10,8 +10,10 @@
 - Username: Lampson
 - DOB: 2009/?/?
 - Gender: 
-- Education level: 11th grade
-- Not too good but learning :)
+- Education level: 12th grade
+
+I SUCK AT COMPUTER SCIENCE!!!!
+PLEASE SOMEONE JUST SHOOT ME IN THE HEAD AND END MY SUFFERING
 
 <div align="center">
   <h2>Languages📘</h2>
@@ -36,11 +38,3 @@
 - VScode🥶
 - Notepad++🙏🏿
 
-<section align = "center">
-  <h2>Currently learning:</h2>
-  <div align = "left">
-    <ul>
-      <li>C++</li>
-    </ul>
-  </div>
-</section>
